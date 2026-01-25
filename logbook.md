@@ -1,40 +1,10 @@
-# Cybersecurity and Data Privacy Logbook
-**Course:** Cybersecurity and Data Privacy - Spring 2026  
-**Student:** Ashish Thapa   
+# Logbook
 
----
-
-## 📅 Week 1: January 20-26, 2026
-
-### 🎯 Activities Completed
-- Created GitHub repository for course documentation
-- Set up logbook structure following assignment requirements
-- Initialized repository with README file
-- Configured public access for teacher review
-
-### 📚 Learning Outcomes
-- Understanding of Git/GitHub for academic documentation
-- Knowledge of Markdown formatting for technical logs
-- Repository management and access control basics
-
-### 🚧 Challenges Faced
-- Determining the correct logbook structure without exact template
-- Ensuring repository is properly accessible
-- Understanding assignment submission requirements
-
-### 🔜 Next Steps / Planned Activities
-- Complete Week 1 course readings
-- Research cybersecurity fundamentals
-- Update logbook with weekly progress
-- Prepare for upcoming assignments
-
-### 📝 Notes / Reflections
-This logbook will document my progress through the Cybersecurity and Data Privacy course. I will maintain it weekly with honest reflections on learning, challenges, and achievements.
-
----
-
-## 📅 Week 2: January 27 - February 2, 2026
-
----
-
-## 📁 Repository Structure
+| Date  | Used hours | Subject(s) |  Outcome(s) |
+| :---         |     :---:      |     :---:      |     :---:      |
+| 23.10.2025 | 4 | Preparing the course | Updated content |
+| 24.10.2025 | 4 | Preparing the course | Updated tasks  |
+| 28.10.2025 | 2 | Kick-off lecture  | Course started |
+| 3.11.2025 | 2 | Preparing for the lecture  | Material uptaded |
+| 4.11.2025 | 3 | Preparing for the lecture  | Material uptaded |
+| 4.11.2025 | 2 | Lecture intro to portswigger  | Lecture regording |
