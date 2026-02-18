@@ -8,3 +8,4 @@
 | 3.11.2025 | 2 | Preparing for the lecture  | Material uptaded |
 | 4.11.2025 | 3 | Preparing for the lecture  | Material uptaded |
 | 4.11.2025 | 2 | Lecture intro to portswigger  | Lecture regording |
+18.2.2026 | 4 | Phase 2 - Booking System | Deployed containers, ran ZAP scan, cracked 6 passwords, completed password security questions |
