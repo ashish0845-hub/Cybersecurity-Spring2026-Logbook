@@ -9,3 +9,4 @@
 | 4.11.2025 | 3 | Preparing for the lecture  | Material uptaded |
 | 4.11.2025 | 2 | Lecture intro to portswigger  | Lecture regording |
 18.2.2026 | 4 | Phase 2 - Booking System | Deployed containers, ran ZAP scan, cracked 6 passwords, completed password security questions |
+| 1.3.2026 | 3 | Phase 3 Authorization Testing | Created auth_test_report.md, ran ZAP scan, tested Guest/Reserver/Admin roles |
